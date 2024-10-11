@@ -1,4 +1,4 @@
-👋 Hello! I'm Harsha Varthanan, a second-year Computer Science student at Velammal College of Engineering and Technology in Madurai. 🎓
+👋 Hello! I'm Harsha Varthanan, a third-year Computer Science student at Velammal College of Engineering and Technology in Madurai. 🎓
 
 🚀 I'm passionate about game development, web application development, and prompt engineering. Whether it's crafting immersive gaming experiences 🎮 or building robust web applications 💻, I'm always eager to dive into exciting projects that challenge and inspire me.
 

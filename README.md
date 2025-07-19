@@ -1,15 +1,32 @@
-<h1 align="center">Hi, I'm **Harsha Varthanan S** 👋</h1>
+<h1 align="center">Hi, I'm <b>Harsha Varthanan S</b> 👋</h1>
+
 <p align="center">
-  🎓 Final-year Computer Science Student • Velammal College of Engineering and Technology, Madurai  
-  💻 Passionate about Web Dev • Game Dev • Prompt Engineering
+  🎓 Final-year Computer Science Student at Velammal College of Engineering and Technology, Madurai <br>
+  💡 Passionate about Web Dev • Game Dev • Prompt Engineering
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:harshavarthanan08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HarshaVarthanan-Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🔍 About Me
-- 💼 Building projects for campus & career readiness  
-- 🛠 Expertise: PHP → MERN, API design, UX/UI focus  
-- 🎮 Gamer at heart, coder by passion, forever learning  
+- 🧠 Currently building tools that bridge academics and automation  
+- 🧰 Skills: PHP → MERN, API design, clean UI/UX  
+- 🎮 Gamer at heart, coder by passion  
+- 🌱 Always curious & learning something new
 
 ---
 
@@ -23,50 +40,34 @@
 ## 📁 Featured Projects
 
 ### 🚀 [OD Management System](https://github.com/HarshaVarthanan-Git/OD-Management-System)  
-A role-based portal for handling OD requests & certificate uploads.  
-🔸 PHP, MySQL • Modular, intuitive design • Live status tracking
+Role-based OD request portal for students, staff & HODs.  
+🔸 Tech: PHP + MySQL • Role-specific dashboards • Upload & Approval Flow
 
 ---
 
 ### 📂 [Certificate Upload Website](https://github.com/HarshaVarthanan-Git/Certificate-upload-Website)  
-Batch-wise certificate uploads with filtering & teacher dashboard.  
-🔸 Secure uploads • Clean UI
+Batch-wise student certificate upload and teacher dashboard.  
+🔸 Admin filters • Smooth UX • Scalable design
 
 ---
 
 ### 📝 [BATTY-NOTE](https://github.com/HarshaVarthanan-Git/BATTY-NOTE)  
-Lightweight note-taking app built using PSR-7 + FastRoute.  
-🔸 JSON storage • Fast, modular backend/frontend
+Minimal note-taking app using FastRoute & PSR-7 in PHP.  
+🔸 JSON-based storage • Modular backend/frontend
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVarthanan-Git&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaVarthanan-Git&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVarthanan-Git&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaVarthanan-Git&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 🧠 LeetCode
+## 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/harshavarthanan_s?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%" alt="LeetCode Stats"/>
-</p>
-
----
-
-## 🎧 Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fxuq2wol6vk6an7i4ori3xp4tm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=false" alt="Spotify Stats"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:harsha.varthanan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/HarshaVarthanan-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---

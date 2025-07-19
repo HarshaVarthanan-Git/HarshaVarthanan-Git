@@ -50,7 +50,7 @@ Lightweight note-taking app built using PSR-7 + FastRoute.
 
 ## 🧠 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/0Ko9491suQ?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/harshavarthanan_s?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%" alt="LeetCode Stats"/>
 </p>
 
 ---

@@ -1,51 +1,81 @@
-## Hi there 👋 I'm Harsha Varthanan S
+<h1 align="center">Hi there 👋 I'm Harsha Varthanan S</h1>
 
-I'm a final-year Computer Science student at **Velammal College of Engineering and Technology, Madurai**.
-
-### 👨‍💻 About Me:
-- 💻 Passionate about **Game Development** & **Web Application Development**
-- 🌐 Exploring full-stack tech, especially **PHP**, **MySQL**, and moving into **MERN stack**
-- 🤖 Deep interest in **Prompt Engineering** and smart AI tools
-- 🧑‍💼 Enjoy building real-world tools that solve genuine problems
-- 🎮 Die-hard **video game enthusiast** & tech lover
+<p align="center">
+  🎓 Final-year Computer Science Student <br>
+  💡 Passionate about Game Dev | Web Dev | Prompt Engineering <br>
+  🏫 Velammal College of Engineering and Technology, Madurai
+</p>
 
 ---
 
-### 🔧 Featured Projects
+## 🚀 About Me
 
-#### 📝 [OD Management System](https://github.com/HarshaVarthanan-Git/OD-Management-System)
-A complete role-based PHP + MySQL platform for managing OD (On Duty) requests by students, staff, and HODs.  
-Features include:
-- Secure login for all roles
-- Approval workflows
-- Certificate upload + view
-- Simple and functional UI
-
-#### 📂 [Certificate Upload Website](https://github.com/HarshaVarthanan-Git/Certificate-upload-Website)
-A system for teachers to upload certificates batch-wise.  
-Highlights:
-- Clean frontend (HTML/CSS)
-- PHP backend with MySQL storage
-- Supports filtering and viewing uploads
-
-#### 🗂️ [BATTY-NOTE](https://github.com/HarshaVarthanan-Git/BATTY-NOTE)
-A lightweight **note-taking application** built in **pure PHP** using FastRoute & PSR-7 architecture.  
-Modular backend/frontend separation with JSON-based note storage.
+- 💻 Exploring full-stack development (PHP → MERN)
+- ⚙️ Love solving real-world problems with practical software
+- 🧑‍💼 Currently building tools for campus & career automation
+- 🎮 Hardcore gamer & code crafter
 
 ---
 
-### 🚀 What I’m Working On
-- 🛠 Building a **Mock Interview Platform** (MCQ + Coding + Resume + HR)
-- 💡 Developing a **Coding Round Portal** with in-browser compiler + admin control
-- 🌐 Transitioning into **MERN stack** projects next
+## 🛠 Tech Stack & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
 ---
 
-### 📫 Let's Connect
-- ✉️ harsha.varthanan@example.com *(Replace with your real email if you'd like)*
-- 🔗 [GitHub](https://github.com/HarshaVarthanan-Git)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/) *(Add yours)*
+## 📌 Featured Projects
+
+### 📝 [OD Management System](https://github.com/HarshaVarthanan-Git/OD-Management-System)
+> A full-fledged OD request portal with role-based login for students, staff & HODs.  
+> Features approval flow, certificate upload, and clean dashboards.
+
+🔹 PHP + MySQL  
+🔹 Clean modular UI  
+🔹 Real-time tracking for OD requests
 
 ---
 
-> “Build what you wish existed.” – Me, probably 😄
+### 📂 [Certificate Upload Website](https://github.com/HarshaVarthanan-Git/Certificate-upload-Website)
+> Upload and manage student certificates batch-wise. Built for academic workflows.
+
+🔹 Batch-level filters  
+🔹 Teacher dashboard  
+🔹 Easy-to-use interface
+
+---
+
+### 🗂️ [BATTY-NOTE](https://github.com/HarshaVarthanan-Git/BATTY-NOTE)
+> A minimalist note-taking app using FastRoute & PSR-7 in PHP.
+
+🔹 Modular architecture  
+🔹 JSON-based storage  
+🔹 Quick and efficient UI
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVarthanan-Git&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVarthanan-Git&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 📫 Email: `harsha.varthanan@example.com` *(replace with your real one)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/) *(add yours)*
+- 🌐 [GitHub](https://github.com/HarshaVarthanan-Git)
+
+---
+
+<p align="center">
+  💬 “Build what you wish existed.”  
+</p>

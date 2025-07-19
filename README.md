@@ -1,15 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Harsha+Varthanan+S.;Final+Year+CSE+Student+🎓;Game+Dev+💻+Web+Dev+🌐+Prompt+Engineering+🤖;Welcome+to+my+GitHub+space!+🚀" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Harsha Varthanan S 👋</h1>
 
 <p align="center">
-  🎓 Final-year Computer Science Student <br>
-  💡 Passionate about Game Dev | Web Dev | Prompt Engineering <br>
-  🏫 Velammal College of Engineering and Technology, Madurai
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  Final-year Computer Science Student <br>
+  Passionate about Game Dev ⬛ Web Dev ⭐ Prompt Engineering 🧐 <br>
+  Velammal College of Engineering and Technology, Madurai
 </p>
 
 ---
@@ -17,48 +11,40 @@
 ## 🚀 About Me
 
 - 💻 Exploring full-stack development (PHP → MERN)
-- ⚙️ Love solving real-world problems with practical software
-- 🧑‍💼 Currently building tools for campus & career automation
-- 🎮 Hardcore gamer & code crafter
-- 🌟 Curious, consistent, and creative learner
+- ⚙️ Passionate about building software that solves real-world problems
+- 🧑‍💼 Working on tools for campus & career automation
+- 🎮 Gamer, developer, and lifelong learner
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,java,js,github,vscode&perline=6" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,react,nodejs,github,vscode&perline=8" alt="Tech Stack">
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📝 [OD Management System](https://github.com/HarshaVarthanan-Git/OD-Management-System)
-> A full-fledged OD request portal with role-based login for students, staff & HODs.  
-> Features approval flow, certificate upload, and clean dashboards.
+### 📅 [OD Management System](https://github.com/HarshaVarthanan-Git/OD-Management-System)
+> Online OD request portal with role-based login for students, staff, and HODs.
 
-🔹 PHP + MySQL  
-🔹 Clean modular UI  
-🔹 Real-time tracking for OD requests
-
----
+- PHP + MySQL backend
+- Modular UI
+- Real-time OD status tracking
 
 ### 📂 [Certificate Upload Website](https://github.com/HarshaVarthanan-Git/Certificate-upload-Website)
-> Upload and manage student certificates batch-wise. Built for academic workflows.
+> Upload, view, and manage certificates by batch & department.
 
-🔹 Batch-level filters  
-🔹 Teacher dashboard  
-🔹 Easy-to-use interface
+- File uploads with batch filters
+- Teacher dashboard and simple UI
 
----
+### 🗃️ [BATTY-NOTE](https://github.com/HarshaVarthanan-Git/BATTY-NOTE)
+> Minimalist, fast note-taking web app with PHP routing and JSON backend.
 
-### 🗂️ [BATTY-NOTE](https://github.com/HarshaVarthanan-Git/BATTY-NOTE)
-> A minimalist note-taking app using FastRoute & PSR-7 in PHP.
-
-🔹 Modular architecture  
-🔹 JSON-based storage  
-🔹 Quick and efficient UI
+- No database dependency
+- Modular and clean codebase
 
 ---
 
@@ -75,24 +61,40 @@
 
 ---
 
-## 📬 Let's Connect
+## 📚 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/HarshaVarthanan?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%"/>
+</p>
+
+---
+
+## 🎵 Spotify Listening
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j3wcjr7m7fwbnbqlgjhj4oc4hu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=false" />
+</p>
+
+---
+
+## 📢 Connect With Me
 
 <p align="center">
   <a href="mailto:harsha.varthanan@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HarshaVarthanan-Git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/HarshaVarthanan-Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
 </p>
 
 <p align="center">
@@ -101,4 +103,6 @@
 
 ---
 
-<p align="center"><b>“Design. Build. Repeat.” 🚀</b></p>
+<p align="center">
+  <b>"Design with passion. Code with purpose."</b>
+</p>

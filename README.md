@@ -57,7 +57,7 @@ Lightweight note-taking app built using PSR-7 + FastRoute.
 
 ## 🎧 Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j3wcjr7m7fwbnbqlgjhj4oc4hu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=false" alt="Spotify Stats"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fxuq2wol6vk6an7i4ori3xp4tm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1DB954&bar_color_cover=false" alt="Spotify Stats"/>
 </p>
 
 ---

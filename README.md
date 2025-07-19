@@ -1,28 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Harsha+Varthanan+S.;Final+Year+CSE+Student+🎓;Game+Dev+💻+Web+Dev+🌐+Prompt+Engineering+🤖;Building+Cool+Projects+Everyday!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=00F58C&width=435&lines=Hi+there!+I'm+Harsha+Varthanan+S;Web+Dev+%7C+Game+Dev+%7C+Prompt+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coder-gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Harsha Varthanan S
-role: Final-Year CSE Student
-college: Velammal College of Engineering and Technology, Madurai
-interests:
-  - Web Development
-  - Game Development
-  - Prompt Engineering
-currently_building:
-  - Mock Interview Platform
-  - Coding Round System with Compiler
-favorite_quote: "Keep building. Keep learning. Keep leveling up."
+🎓 Final-Year CSE Student – Velammal College of Engineering and Technology, Madurai  
+💡 Passionate about **Game Dev**, **Web Dev**, and **Prompt Engineering**  
+🛠️ Currently working on: Mock Interview Platform & Coding Portal  
+🎮 Gamer + Builder mindset – turning ideas into live software  
+🌱 Learning **MERN stack**, improving UI/UX & API skills
 
+---
 
 ## 🚀 Tech Stack & Tools
 
